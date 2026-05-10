@@ -27,8 +27,4 @@ The test cases are structured in a clear, professional format including:
 - **Priority:** Severity levels (High/Medium/Low).
 - **Status:** Pass/Fail results across different environments.
 
-## How to Use
-1. Download the `TESTCASE.xlsx` file.
-2. Review the "Sheet1" for the full execution matrix.
-3. Use the defined **Test Data** to reproduce cases on [Saucedemo](https://www.saucedemo.com/).
 
